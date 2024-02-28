@@ -38,7 +38,7 @@ There are five different types of coupons:
 1. 41% of bar coupons were accepted
 2. Acceptance rate for those who went to bar more than 3 times a month (77%) is <u>more than double</u> that of those who did not (37%)
 3. Acceptance rate with those who went to bar more than once a month and over age 25 (77%) is more than double that of those who did not (38%)
--- <i>Age > 25 category does not seem to have a significant impact in this scenario - propensity of going to bar more frequently does
+-- <i>Age > 25 category does not seem to have a significant impact in this scenario - propensity of going to bar more frequently does</i>
 4. Acceptance rate is higher for drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry (71%) compared to the rest of the drivers (40%)
 5. 71% acceptance rate for those who go to bars more than once a month, had passengers that were not a kid, and were not widowed
 6. 45% acceptance rate for drivers who go to cheap restaurants more than 4 times a month and income is less than 50K
