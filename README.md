@@ -1,7 +1,7 @@
 # Practical Application 5.1 - Customer Coupons #
 * Work done for the complete analysis including statistics, observations, and visualizations available in:
 
-    [Jupiter Notebook used](https://github.com/ndhomse/coupon-analysis/blob/main/notebook/prompt_assig5_1.ipynb)
+    [Jupiter Notebook used](https://github.com/ndhomse/coupon-analysis/blob/main/notebook/Practical_App_5.1.ipynb)
 ### Problem statement ###
 Build a system to answer the question: **Will a customer accept the coupon?**
 
